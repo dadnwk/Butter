@@ -1,0 +1,11 @@
+#node_modules
+node_modules/
+
+#example.json fixtures
+cypress/fixtures/example.json
+
+#screenshots
+cypress/screenshots
+
+#videos
+cypress/videos
